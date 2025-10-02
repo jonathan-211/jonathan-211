@@ -48,15 +48,6 @@ Currently based in **Kigali, Rwanda** 🇷🇼, I'm always exploring new technol
 
 ---
 
-## 📈 GitHub Analytics
-
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathan-211&theme=tokyonight" alt="GitHub Streak Stats"/>
-</div>
-
----
 
 ## 🤝 Let's Connect
 
@@ -79,13 +70,3 @@ I'm always interested in collaborating on exciting projects or discussing new op
 I believe in writing code that is not just functional, but **maintainable**, **scalable**, and **elegant**. Every project is an opportunity to learn, grow, and create something meaningful.
 
 ---
-
-<div align="center">
-
-### ⭐ From [jonathan-211](https://github.com/jonathan-211)
-
-**"Building the future, one line of code at a tim."**
-
-![Profile Views](https://komarev.com/ghpvc/?username=jonathan-211&color=blueviolet&style=flat-square)
-
-</div>
