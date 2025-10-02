@@ -1,6 +1,6 @@
 # Hi there, I'm Jonathan IGIRIMPUHWE 👋
 
-### Developer | Problem Solver | Tech Enthusiast  | Network administrator | DATABASE
+### Developer | Problem Solver | Tech Enthusiast  | Network administrator | DATABASE | SERVER ADMINISTRATOR
 
 I'm a passionate frontend developer specializing in building **scalable, accessible, and user-centric web applications**. With expertise in modern JavaScript frameworks and a growing mobile development skill set, I focus on creating seamless digital experiences that solve real-world problems.
 
