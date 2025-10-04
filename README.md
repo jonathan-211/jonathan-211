@@ -49,6 +49,42 @@ Currently based in **Kigali, Rwanda** 🇷🇼, I'm always exploring new technol
 ---
 
 
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-211&show_icons=true&theme=tokyonight&count_private=true)
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jonathan-211&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jonathan-211&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Jonathan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jonathan-211&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+
+
+
 ## 🤝 Let's Connect
 
 I'm always interested in collaborating on exciting projects or discussing new opportunities. Feel free to reach out!
