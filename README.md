@@ -50,26 +50,6 @@ Currently based in **Kigali, Rwanda** 🇷🇼, I'm always exploring new technol
 
 
 
-## 📊 GitHub Statistics
-
-
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jonathan-211&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
-
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Jonathan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jonathan-211&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
 
 
 
