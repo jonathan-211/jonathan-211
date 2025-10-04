@@ -52,11 +52,7 @@ Currently based in **Kigali, Rwanda** 🇷🇼, I'm always exploring new technol
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  
-![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-211&show_icons=true&theme=tokyonight&count_private=true)
 
-</div>
 
 <div align="center">
 
@@ -65,14 +61,6 @@ Currently based in **Kigali, Rwanda** 🇷🇼, I'm always exploring new technol
 </div>
 
 
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jonathan-211&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ## 📈 Contribution Graph
 
